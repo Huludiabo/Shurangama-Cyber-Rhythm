@@ -45,7 +45,7 @@ This is an immersive reader for the **Shurangama Mantra**. By integrating **Real
 
 ## 🚀 快速开始 | Quick Start
 
-1. **下载项目**: `git clone https://github.com/YourUsername/Shurangama-Cyber-Rhythm.git`
+1. **下载项目**: `git clone https://github.com/Huludiablo/Shurangama-Cyber-Rhythm.git`
 2. **运行**: 直接用浏览器打开 `index.html`。
 3. **建议**: 戴上耳机，调大低音，开启你的赛博修行。
 
